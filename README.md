@@ -1,4 +1,4 @@
-# Stock Return Prediction
+# Stock Price Prediction
 
 - CAPM  describes the relationship between risk and expected return 
 - It is built on the earlier work on diversification and modern portfolio theory.
